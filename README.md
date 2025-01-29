@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Mansi
 - 👀 I’m interested in Java Development
 - 🌱 I’m currently learning Spring Boot
+- 🤝 I’m currently looking for Internship
 - 💞️ I’m looking to collaborate on open-source projects,especially ones related to backend development or building RESTful APIs.
 - 📫 How to reach me You can reach me via email at [pantmansi83@gmail.com] or connect with me on LinkedIn ([www.linkedin.com/in/mansi-pant-31a015244]).
 - 😄 Pronouns:She/Her
-- ⚡ Fun fact:I love solving coding puzzles in my free time!
 
 <!---
 CsMansi/CsMansi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
