@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mansi
+- 👋 Hi, I’m Mansi.
 - 🌱 I’m currently learning Spring Boot.
 - 🤝 I’m currently looking for Internship.
 - 💞️ I’m looking to collaborate on open-source projects,especially ones related to backend development or building RESTful APIs.
