@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Mansi.
-- 🌱 I’m currently learning Spring Boot
-- 🤝 I’m currently looking for Internship.
-- 💞️ I’m looking to collaborate on open-source projects,especially ones related to backend development or building RESTful APIs.
-- 📫 How to reach me You can reach me via email at [pantmansi83@gmail.com] or connect with me on LinkedIn ([www.linkedin.com/in/mansi-pant-31a015244]).
+# 👋 Hi there, I’m Mansi Pant
+
+- 🚀 I'm a passionate tech enthusiast currently diving deep into **Spring Boot** and backend development.
+- 🌟 Eager to apply my skills in a **real-world environment** and contribute to impactful projects.
+- 🤝 Open to collaborating on **open-source projects**, especially those focused on **RESTful APIs** and scalable backend systems.
+- 📬 Let's connect!  
+  📧 Email: [pantmansi83@gmail.com](mailto:pantmansi83@gmail.com)  
+  🔗 LinkedIn: [linkedin.com/in/mansi-pant-31a015244](https://www.linkedin.com/in/mansi-pant-31a015244)
 
 <!---
 CsMansi/CsMansi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
